@@ -10,5 +10,3 @@ touch actividad1/seis/holanombre.sh
 touch actividad1/tres/file3.txt
 mkdir actividad1/uno
 touch actividad1/uno/test.txt
-bash actividad1/seis/holamundo.sh
-bash actividad1/seis/holanombre.sh
