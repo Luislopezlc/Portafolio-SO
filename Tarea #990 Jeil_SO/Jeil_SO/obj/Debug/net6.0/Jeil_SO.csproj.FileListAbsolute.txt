@@ -1,0 +1,14 @@
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\bin\Debug\net6.0\Jeil_SO.exe
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\bin\Debug\net6.0\Jeil_SO.deps.json
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\bin\Debug\net6.0\Jeil_SO.runtimeconfig.json
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\bin\Debug\net6.0\Jeil_SO.dll
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\bin\Debug\net6.0\Jeil_SO.pdb
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\Jeil_SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\Jeil_SO.AssemblyInfoInputs.cache
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\Jeil_SO.AssemblyInfo.cs
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\Jeil_SO.csproj.CoreCompileInputs.cache
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\Jeil_SO.dll
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\refint\Jeil_SO.dll
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\Jeil_SO.pdb
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\Jeil_SO.genruntimeconfig.cache
+C:\Users\Lcprs\Desktop\Jeil_SO\Jeil_SO\obj\Debug\net6.0\ref\Jeil_SO.dll

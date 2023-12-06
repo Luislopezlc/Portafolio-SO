@@ -1,0 +1,15 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultString": "Data Source=SERV-SAACGNET\\SQLSAACG; Initial Catalog=incidenciass;;User ID=sa;Password=sql2005",
+    "ExternalString": "Server=localhost; Database=biotime; Port=7496; User Id=postgres; Password=upqroo123"
+  },
+  "KeyJwt": "Qm/Ev7tetZM97cXZY2BV6lx39ywWVky4iyggQR37Wpk=Qm/Ev7tetZM97cXZY2BV6lVky4iyggQR37Wpk=Qm/",
+  "ApiKey": "zQDiksWXDTxeLw/6UXHlVbxGv8T63ftKQYtoQLhueaM="
+}
